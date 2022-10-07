@@ -1,4 +1,8 @@
-# sysdig-hello-world-nodejs
+# tmo-hello-world-nodejs
+
+## This Repo
+
+- Simply a lab repo for a scan test
 
 ## Credit
 
@@ -58,8 +62,6 @@ Submit an [issue][2] or a [pull request][3] if you want to contribute some code.
 
 [MIT][4]
 
-[1]: https://docs.docker.com/develop/develop-images/multistage-build/
 [2]: https://github.com/kevinpollet/typescript-docker-multi-stage-build/issues/new
 [3]: https://github.com/kevinpollet/typescript-docker-multi-stage-build/pulls
 [4]: ./LICENSE.md
-[5]: https://github.com/kevinpollet/typescript-docker-multi-stage-build/actions
